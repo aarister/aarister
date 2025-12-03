@@ -1,5 +1,5 @@
 <h1>Hello, I'm Alexander. <br/>
-<a href="https://github.com/aarister">Network Security Analyst Intern</a>, 
+<a href="https://github.com/aarister">Network Security Intern</a>, 
 <a href="https://linkedin.com/in/alexander-arister-bb2783379">2 Years of IT Security Experience</a>
 </h1>
 
@@ -15,7 +15,7 @@
 
 <h2>📄 Work Experience</h2>
 
-- <b>Network Security Analyst Intern</b> – Sundance Networks, Inc. (Aug 2025 – Present)  
+- <b>Network Security Intern</b> – Sundance Networks, Inc. (Aug 2025 – Present)  
   - Triaged 20+ Datto EDR alerts and investigated phishing attempts with Graphus  
   - Supported AD, M365, and RMM environments for IAM compliance  
   - Contributed to Security+, HIPAA, PCI-DSS, and NIST IR learning modules  
